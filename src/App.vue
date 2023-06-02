@@ -8,6 +8,7 @@
 <script>
 import ToDoItems from './components/body/ToDoItems.vue';
 import ToDoHeader from './components/header/ToDoHeader.vue';
+import ToDoHeader from './components/header/ToDoHeader.vue';
 
 export default {
   name: 'App',
